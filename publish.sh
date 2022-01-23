@@ -2,6 +2,7 @@
 
 read -n1 -p "Did you exported html? [y/N]: " yn
 if [[ $yn = [yY] ]]; then
+    echo ""
     git add .
     git commit -m "$1"
     git push origin main
