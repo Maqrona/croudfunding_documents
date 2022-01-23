@@ -52,7 +52,7 @@
 
 * READYFOR: [子どもたちに開かれた保護犬猫の触れ合い譲渡施設、25年越しの改修へ](https://readyfor.jp/projects/foajp)
 
-![図1 大手クラファンサイトのトップ](大手クラファン比較.png)
+![図1 大手クラファンサイトのトップ](compare_top_views.png)
 
 ## 自社 EC サイトによるクラファン
 
